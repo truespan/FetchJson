@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FetchJson</string>
+    <string name="textview_id">Id</string>
+    <string name="textview_username">College Name</string>
+    <string name="textview_address">Address</string>
+    <string name="textview_vc">Vice Chancellor</string>
+    <string name="button_previous">Previous</string>
+    <string name="button_next">Next</string>
+    <string name="button_get">Get Json</string>
+</resources>
